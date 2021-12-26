@@ -1,0 +1,7 @@
+{
+    "server": "localhost",
+    "port": 27017,
+    "user": "gAAAAABg_uyFYvqwp_I2y2waZBDZA3y41tgsARDQwr6NC0KzUBuFM2i8Qb_XeCzxO8w_SCVISvufgv28ntMzsNO0E8UH57ipMg==",
+    "password": "gAAAAABg_uyuGjtAV-jAeYxOzFUeU4LAZxetdbpLfpJkrcXBL5ts0tz9oZZjD1hl0keEmgoxpnBI6y1rAkPhl-KVyie2GonD_w==",
+    "schema": "chai_pay_schema"
+}
